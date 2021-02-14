@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 ## South OC (Guild 015) First Meet/Greet and Build and Battle
 
