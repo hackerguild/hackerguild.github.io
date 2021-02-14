@@ -1,7 +1,7 @@
 ---
 published: true
 ---
-## A New Post
+## Welcome to Guild 015
 
 Welcome to Guild 015: South Orange County, California! We just got formed April 2013 HSSOC webpresently organizing. We are based in South Orange County, California and we look forward to organizing our very first guild google hangout, meeting and event so if you are interested to take part in this exciting maker-revolution, contact us at southoc@hacker-link.org and join the conversation at http://www.facebook.com/ocmakers. ![2013-0422.jpg]({{site.baseurl}}/images/2013-0422.jpg)
 
